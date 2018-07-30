@@ -1,0 +1,13 @@
+INTRODUCTION
+
+Aim of the project is to predict the desired location for setting up a new business.
+The Business is a coffee shop chain that is aiming to expand and needs guidance in selecting between the two locations.
+
+The information will be in the form of locations of existing coffee shops that will provide a deterministic view 
+of the consumption of the beverage in the select regions.
+
+The next step will be to find an optimal location for the shop to be set up so that
+	-> it will be a successful venture.
+	-> will not have to face the extensive competition due to previously established businesses.
+
+The dataset utilized here is the same Toronto and New-York dataset that has been used in previous weeks.
