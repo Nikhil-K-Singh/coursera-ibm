@@ -1,0 +1,5 @@
+There is no hardcoded dataset for the project as the data is actually obtained as a response from the Fouresquare API.
+
+The API call return the location of all the coffee shops in the regions,
+	which will then be stored in a dataframe to be processed further.
+	The dataframes will then be compared and analysed to figure out the preferred location for the business.
