@@ -1,0 +1,21 @@
+Introduction :
+
+The business problem is to figure out an optimum location for a new outlet for coffee shop in a locality.
+
+Data utilised here is :
+	list of localities preferred by the user;
+	location data from geocoding api; 
+	nearby information from the foursquare api;
+
+Methodology:
+	The location data is outsourced to the foursquare api
+	to figure out the concentraion of coffee shops in a region,larger the number larger the demand in the zone.
+	The Zillow api features the property rates and nearby available properties.
+
+Results:
+	The program facilitates the user with possible locations in the neighborhood for setting up the business.
+
+Future improvements :
+	The program can be tweaked a little more to actually pinpoint to the most optimum location with lowest prices.
+	However, there are logistical and sociological factors that it may not be able to predict in every case.
+	
